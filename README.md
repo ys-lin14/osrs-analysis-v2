@@ -1,6 +1,6 @@
 # OSRS-Analysis-V2
 #### Context
-Remake of OSRS-Analysis where I wanted to determine the differences between two weapons (shown below) in the game Old School RuneScape.
+Remake of OSRS-Analysis where I set out to determine the differences between two weapons (shown below) in the game Old School RuneScape.
 Data was collected over 6 hours (3 hours per weapon) with 10-minute intervals between observations.
 
 |                    | Iron Scimitar | Event RPG |
