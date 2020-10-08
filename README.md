@@ -24,8 +24,12 @@ Data was collected over 6 hours (3 hours per weapon) with 10-minute intervals be
 |      Efficiency (exp/hour)    |     1275      |   1519    |
 |     Hours until level 75      |      844      |    709    |
 
-The Iron Scimitar was more accurate while the Event RPG was more efficient for training.
+The unbiased estimators suggest that the Iron Scimitar is more accurate than the Event RPG.
 
+In terms of efficiency, the linear regression and hypothesis testing results conflict with each other.
+The hypothesis testing could not conclude that there was a difference between the mean experience gained 
+every 10 minutes while the slopes and confidence intervals from linear regression suggest that the Event RPG 
+is more efficient than the Iron Scimitar.
 <br>
 
 Key differences between this osrs-analysis-v2 and osrs-analysis include
