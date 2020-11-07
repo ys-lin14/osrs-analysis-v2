@@ -27,8 +27,8 @@ Data was collected over 6 hours (3 hours per weapon) with 10-minute intervals be
 The hypothesis testing results suggest that there are differences between the Iron Scimitar and Event RPG in terms of accuracy and mean 
 experience gained every 10 minutes.
 
-The sample proportions (unbiased estimator) suggest that the Iron Scimitar is more accurate than the Event RPG while the slope and 
-confidence intervals from linear regression suggested that the Event RPG was more efficient than the Iron Scimitar.
+The sample proportions suggest that the Iron Scimitar is more accurate than the Event RPG while the slope and 
+confidence intervals from linear regression suggest that the Event RPG was more efficient than the Iron Scimitar.
 <br>
 
 Key differences between this osrs-analysis-v2 and osrs-analysis include
