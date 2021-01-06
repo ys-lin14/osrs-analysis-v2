@@ -1,23 +1,29 @@
 # OSRS-Analysis-V2
-#### Context
+
+**Context**<br>
 Remake of OSRS-Analysis where I set out to determine the differences between two weapons (shown below) in the game Old School RuneScape.
 Data was collected over 6 hours (3 hours per weapon) with 10-minute intervals between observations.
 
+Weapon Information
 |                    | Iron Scimitar | Event RPG |
 |        :-:         |      :-:      |    :-:    |
 |   Relative Speed   |     slower    |   faster  |
 | Has Attack Bonuses |      yes      |     no    |
 
-#### Goals:
+**Goals**<br>
 - determine which weapon is more accurate
 - determine which weapon is more efficient
 - obtain estimates of the time it would take to reach level 75 Defence using each weapon
+<br><br>
 
-#### Methods:
+
+**Methods**<br>
 - linear regression
 - hypothesis testing
+<br><br>
 
-#### Results:
+
+**Results**<br>
 |                               | Iron Scimitar | Event RPG |
 |            :-:                |      :-:      |    :-:    |
 | Probability of Successful Hit |     0.21      |   0.19    |
@@ -36,5 +42,5 @@ Key differences between this osrs-analysis-v2 and osrs-analysis include
 - storing data within fewer files for better organization
 - using modules to save time, improve code organization, efficiency and readability
 
-#### References
+**References**<br>
 *Old School Runescape* [Game]. (2013). Cambridge: Jagex Ltd.
