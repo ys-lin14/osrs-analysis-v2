@@ -24,6 +24,12 @@ Weapon Information
 
 
 **Results**<br>
+
+
+**Linear Regression on Cumulative Defence Experience**<br>
+![Linear Regression on Cumulative Defence Experience](https://github.com/ys-lin14/osrs-analysis-v2/blob/master/screenshots/cumulative_experience.PNG?raw=true)
+
+
 |                               | Iron Scimitar | Event RPG |
 |            :-:                |      :-:      |    :-:    |
 | Probability of Successful Hit |     0.21      |   0.19    |
